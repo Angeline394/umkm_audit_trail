@@ -52,4 +52,4 @@ Audit trail dilakukan secara **otomatis** untuk setiap perubahan transaksi (📥
 
 ---
 
-📁 *Untuk dokumentasi teknis dan struktur folder, silakan lihat bagian selanjutnya di README lengkap.*
+
